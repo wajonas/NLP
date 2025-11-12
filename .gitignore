@@ -17,3 +17,6 @@ data/
 
 # Notebooks-Cache
 .ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
