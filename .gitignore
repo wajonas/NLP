@@ -1,0 +1,19 @@
+# VS Code / Python
+.vscode/
+_pycache_/
+*.pyc
+.venv/
+.env
+
+# Daten & große Artefakte (ParlaMint)
+data/
+*.conllu
+*.vert
+*.xml
+*.tsv
+*.tei
+*.zip
+*.gz
+
+# Notebooks-Cache
+.ipynb_checkpoints/
