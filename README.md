@@ -11,7 +11,7 @@ This repository contains the code and notebooks for our NLP project on sentiment
 The analysis is based on the **ParlaMint-AT** corpus (Austrian parliament), which is part of the ParlaMint project.  
 The corpus was downloaded from the CLARIN.SI repository:
 
-`https://clarin.si/repository/xmlui/handle/11356/2005`
+(https://clarin.si/repository/xmlui/handle/11356/2005)
 
 Raw data are not included in this repository due to size and licensing.  
 Locally, the ParlaMint-AT files are placed under `data/ParlaMint-AT.txt/` and are then converted into a cleaned, speech-level dataset that is saved as a Parquet file.
